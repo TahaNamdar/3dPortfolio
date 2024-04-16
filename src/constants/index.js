@@ -27,8 +27,8 @@ import {
   golden,
   fanora,
   taban,
-  internships,
   treatanet,
+  herobg,
 } from "../assets";
 
 export const navLinks = [
@@ -157,7 +157,7 @@ const experiences = [
   {
     title: "Internship Frontend Developer",
     company_name: "Coursera",
-    icon: internships,
+    icon: herobg,
     iconBg: "#E6DEDD",
     date: "Mar 2020 - Nov 2020 · 9 mos",
     points: [

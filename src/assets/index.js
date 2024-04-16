@@ -34,8 +34,8 @@ import bs from "./bs.png";
 import golden from "./golden.png";
 import fanora from "./fanora.jpeg";
 import taban from "./taban.webp";
-import internships from "./internships.png";
 import taha from "./taha.jpg";
+import herobg from "./herobg.png";
 
 export {
   logo,
@@ -71,6 +71,6 @@ export {
   tripguide,
   fanora,
   taban,
-  internships,
   taha,
+  herobg,
 };
